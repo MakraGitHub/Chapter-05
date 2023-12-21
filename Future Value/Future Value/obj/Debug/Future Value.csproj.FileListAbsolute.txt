@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\bin\Debug\Future Value.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\bin\Debug\Future Value.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\bin\Debug\Future Value.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future Value.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future_Value.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future Value.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future Value.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Future Value\Future Value\obj\Debug\Future Value.pdb

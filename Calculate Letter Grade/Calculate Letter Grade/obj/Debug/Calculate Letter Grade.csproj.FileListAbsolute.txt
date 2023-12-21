@@ -1,0 +1,18 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate_Letter_Grade.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate_Letter_Grade.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\bin\Debug\Calculate Letter Grade.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate_Letter_Grade.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate_Letter_Grade.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Calculate Letter Grade\Calculate Letter Grade\obj\Debug\Calculate Letter Grade.csproj.GenerateResource.Cache

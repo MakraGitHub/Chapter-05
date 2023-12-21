@@ -1,0 +1,18 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\bin\Debug\Student Population.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\bin\Debug\Student Population.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\bin\Debug\Student Population.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student_Population.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student_Population.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student Population.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student Population.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student Population.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Student Population\Student Population\obj\Debug\Student Population.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\bin\Debug\Student Population.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student Population.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student Population.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\bin\Debug\Student Population.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\bin\Debug\Student Population.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student Population.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student_Population.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student_Population.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Student Population\Student Population\obj\Debug\Student Population.csproj.GenerateResource.Cache

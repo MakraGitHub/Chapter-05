@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\bin\Debug\TelePhone Number.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\bin\Debug\TelePhone Number.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\bin\Debug\TelePhone Number.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone Numbers.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone_Number.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone_Number.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone Numbers.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone Number.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\TelePhone Number\TelePhone Number\obj\Debug\TelePhone Number.pdb

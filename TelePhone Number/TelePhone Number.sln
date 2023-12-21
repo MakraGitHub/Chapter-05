@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelePhone Numbers", "TelePhone Number\TelePhone Numbers.csproj", "{636D8446-2C91-4697-80FE-1F4CB876583A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotal", "..\InvoiceTotal\InvoiceTotal\InvoiceTotal.csproj", "{EDA70BE2-C097-46C3-97C3-5802D2EC970B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636D8446-2C91-4697-80FE-1F4CB876583A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636D8446-2C91-4697-80FE-1F4CB876583A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636D8446-2C91-4697-80FE-1F4CB876583A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636D8446-2C91-4697-80FE-1F4CB876583A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA70BE2-C097-46C3-97C3-5802D2EC970B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA70BE2-C097-46C3-97C3-5802D2EC970B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA70BE2-C097-46C3-97C3-5802D2EC970B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA70BE2-C097-46C3-97C3-5802D2EC970B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

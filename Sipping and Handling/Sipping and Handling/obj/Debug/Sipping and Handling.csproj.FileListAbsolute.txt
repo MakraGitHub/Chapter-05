@@ -1,0 +1,27 @@
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 02\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 03\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe.config
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.exe
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\bin\Debug\Sipping and Handling.pdb
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Form1.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping_and_Handling.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\G25 Year3\C#\Chapter 05\Sipping and Handling\Sipping and Handling\obj\Debug\Sipping and Handling.csproj.GenerateResource.Cache
